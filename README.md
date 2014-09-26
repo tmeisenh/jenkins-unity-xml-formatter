@@ -1,6 +1,6 @@
 jenkins-unity-xml-formatter
 ===========================
-This is an xsd template that is used to convert the xml test output from
+This is an xsl template that is used to convert the xml test output from
 Unity tests to a format Jenkins can read.
 
 This is extremely useful for test driven development in C using
